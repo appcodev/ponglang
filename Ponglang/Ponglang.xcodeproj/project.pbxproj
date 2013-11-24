@@ -462,6 +462,7 @@
 				37653B2D18424E3B00E44773 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37653B2E18424E3B00E44773 /* Build configuration list for PBXNativeTarget "PonglangTests" */ = {
 			isa = XCConfigurationList;
@@ -470,6 +471,7 @@
 				37653B3018424E3B00E44773 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
