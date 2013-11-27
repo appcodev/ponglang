@@ -19,7 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSURL *url = [NSURL URLWithString:@"https://isan.msu.ac.th/sak/android/jq/ponglang/"];
+    NSURL *url = [NSURL URLWithString:@"http://isan.msu.ac.th/sak/android/jq/ponglang/"];
     NSURLRequest *req = [NSURLRequest requestWithURL:url];
     [self.webview loadRequest:req];
 }
